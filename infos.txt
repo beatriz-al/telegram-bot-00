@@ -1,0 +1,4 @@
+bot_chatID = 1107284827
+
+bot_token = '5399794246:AAGm7LNApb7tMOBVANqWNF34ZSmRm9mDS1w'
+
