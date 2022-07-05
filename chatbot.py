@@ -4,7 +4,7 @@ from telegram.ext import *
 from requests import *
 
 
-updater = Updater(token='5399794246:AAGm7LNApb7tMOBVANqWNF34ZSmRm9mDS1w')
+updater = Updater(token='TOKEN')
 _dispatcher = updater.dispatcher
 
 # o parâmetro update contém a mensagem que o usuário enviou e quem enviou
